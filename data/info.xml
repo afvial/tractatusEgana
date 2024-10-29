@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>text</titleStmt>
+         <editionStmt>text</editionStmt>
+         <publicationStmt>text</publicationStmt>
+         <sourceDesc>text</sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>text</projectDesc>
+         <editorialDecl>text</editorialDecl><tagsDecl>text</tagsDecl>
+         <tagsDecl>text</tagsDecl>
+      </encodingDesc>
+      <revisionDesc>			 
+         <change>text</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>			 
+         text
+      </front>
+      <body>
+         <div type="section" num="1">
+            <head>
+               <pb facs="6" xml:id=""/>
+               <lb/>
+               <w lemma="" pos="" xml:id="">Elementa</w>
+               <c> </c>
+               <w>logicae</w> 
+               <lb/>
+               <w>tam</w>
+               <c> </c>
+               <w>antiquae</w><pc>,</pc>
+               <c> </c>
+               <w>quam</w>
+               <c> </c>
+               <w> recentioris</w><pc>.</pc>
+            </head>
+            <div type="subsection" num="1">
+               <head>
+                  <lb/>
+                  <w lemma="" pos="" xml:id="">Brevis</w>
+                  <c> </c>
+                  <w lemma="" pos="" xml:id="">historia</w>
+                  <c> </c>
+                  <w lemma="" pos="" xml:id="">logicae</w><pc>.</pc>
+               </head>
+               <p xml:id="">
+                  <s xml:id="">
+                     <lb/>
+                     <w lemma="logica" pos="n-s---fn-" xml:id="">Logica</w>
+                     <c> </c>
+                     <w lemma="ab" pos="r--------" xml:id="">ab</w>
+                     <c> </c>
+                     <w lemma="incunabula" pos="n-p---nb- " xml:id="">
+                        <choice>
+                           <sic>incunabalis</sic>
+                           <corr>incunabulis</corr>
+                        </choice>
+                     </w>
+                     <c> </c>
+                     <w lemma="eo" pos="d--------" xml:id="">eo</w>
+                     <c> </c>
+                     <w lemma="laboro" pos="v3siia---" xml:id="">laborabat</w><pc xml:id="">,</pc>
+                     <c> </c>
+                     <w lemma="ut" pos="d--------" xml:id="">ut</w>
+                     <c> </c>
+                     <w lemma="homo" pos="n-p---ma-" xml:id="">homines</w>
+                     <c> </c>
+                     <w lemma="frequens" pos="a-------c" xml:id="">frequen<pc type="hyphenation" xml:id= "">-</pc><lb/>tius</w>
+                     <c> </c>
+                     <w lemma="de" pos="r--------" xml:id="">de</w>
+                     <c> </c>
+                     <w lemma="verbum" pos="n-p---nb-" xml:id="">verbis</w>
+                     <c> </c>
+                     <w lemma="in-significo" pos="v-ppp-nb-" xml:id="">insignificantibus</w><pc xml:id= "">,</pc>
+                     <c> </c>
+                     <w lemma="de" pos="r--------" xml:id="">de</w>
+                     <c> </c>
+                     <w lemma="de" pos="v-prppfb-" xml:id="">inexactis</w>
+                     <c> </c>
+                     <w lemma="definitio" pos="n-p---fb-" xml:id="">definitionibus</w><pc xml:id= "">,</pc> 
+                     <c> </c>
+                     <w lemma="et" pos="c--------" xml:id="">et</w>
+                     <lb/>
+                     <w lemma="arbitrarius" pos="a-p---fb-" xml:id="">arbitrariis</w>
+                     <c> </c>
+                     <w lemma="distinctio" pos="n-p---fb-" xml:id="">distinctionibus</w>
+                     <c> </c>
+                     <w lemma="" pos="d-------p" xml:id="">aeterne</w>
+                     <c> </c>
+                     <w lemma="" pos="v3pisa---" xml:id="">disputarent</w><pc xml:id= "">.</pc>
+                  </s>
+                  <s xml:id="">
+                     <w lemma="hinc" pos="d--------" xml:id="">Hinc</w>
+                     <c> </c>
+                     <w lemma="orior" pos="v-prppmn-" xml:id="">orti</w>
+                     <c> </c>
+                     <w lemma="sophistes" pos="n-p---mn-" xml:id=""><name type="org">So<pc type="hyphenation" xml:id="">-</pc><lb/>phistae</name></w><pc>,</pc>
+                     <c> </c>
+                     <w lemma="qui" pos="p-p---mg-" xml:id="">quorum</w>
+                     <c> </c>
+                     <w lemma="vanus" pos="a-s---fn-" xml:id="">vana</w>
+                     <c> </c>
+                     <w lemma="verbum" pos="n-p---ng-" xml:id="">verborum</w>
+                     <c> </c>
+                     <w lemma="ostentatio" pos="n-s---fn-" xml:id="">ostentatio</w>
+                     <c> </c>
+                     <w lemma="in" pos="r--------" xml:id="">in</w>
+                     <c> </c>
+                     <w lemma="subtilis" pos="a-p---fb-" xml:id="">subtilibus</w><pc>,</pc>
+                     <c> </c>
+                     <w lemma="et" pos="" xml:id="">et</w>
+                     <lb/>
+                     <w lemma="inutilis" pos="a-p---fb-" xml:id="">inutilibus</w>
+                     <c> </c>
+                     <w lemma="quaestio" pos="n-p---fb-" xml:id="">quaestionibus</w>
+                     <c> </c>
+                     <w lemma="mortalis" pos="a-p---ma-" xml:id="">mortales</w>
+                     <c> </c>
+                     <w lemma="defatigo" pos="v3siia---" xml:id="">defatigabat</w>
+                     <c> </c>
+                     <pc>:</pc>
+                     <c> </c>
+                     <w lemma="aequaliter" pos="d--------" xml:id="">
+                        <choice>
+                           <sic>equaliter</sic>
+                           <corr>aequaliter</corr>
+                        </choice>
+                     </w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">
+                        <choice>
+                           <sic>ex<pc type="hyphenation" xml:id="">-</pc><lb/>trenui</sic>	    
+                           <corr>ex<pc type="hyphenation" xml:id="">-</pc><lb/>tranui</corr>
+                        </choice>
+                     </w>
+                     <c> </c>
+                     <w lemma="ad" pos="r--------" xml:id="">ad</w>
+                     <c> </c>
+                     <w lemma="veritas" pos="n-s---fa-" xml:id="">veritatem</w><pc>,</pc>
+                     <c> </c>
+                     <w lemma="" pos="d--------" xml:id="">quam</w>
+                     <c> </c>
+                     <w lemma="ad" pos="r--------" xml:id="">ad</w>
+                     <c> </c>
+                     <w lemma="falsitas" pos="n-s---fa-" xml:id="">falsitatem</w>
+                     <c> </c>
+                     <w lemma="sustineo" pos="v-s-g-fa-" xml:id="">sustinendam</w><pc>.</pc>
+                  </s>
+                  <s xml:id="">
+                     <w lemma="hic" pos="p-s---ng-" xml:id="">Hu<pc type="hyphenation" xml:id="">-</pc><lb/>jus</w>
+                     <c> </c>
+                     <w lemma="genus" pos="n-s---ng-" xml:id="">generis</w>
+                     <c> </c>
+                     <w lemma="Zeno" pos="n-s---ma-" xml:id=""><name type="pers">Zenonem</name></w><pc>,</pc>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id=""><name type="org">Eleatem</name></w>
+                     <c> </c>
+                     <w lemma="primus" pos="a-s---ma-" xml:id="">primum</w>
+                     <c> </c>
+                     <w lemma="historia" pos="n-s---fb-" xml:id="">Historia</w>
+                     <c> </c>
+                     <w lemma="prodeo" pos="v3sria---" xml:id="">prodiit</w><pc>.</pc>
+                  </s>
+                  <s xml:id="">
+                     <w lemma="coaevus" pos="a-s---mn-" xml:id="">
+                        <sic>Coe<pc type="hyphenation" xml:id= "">-</pc><lb/>vus</sic>
+                        <corr>Coae<pc type="hyphenation" xml:id= "">-</pc><lb/>vus</corr>
+                     </w>
+                     <c> </c>
+                     <w lemma="sum" pos="v3sria---" xml:id="">fuit</w>
+                     <c> </c>
+                     <w lemma="Socrates" pos="n-s---mg-" xml:id=""><name type="pers">Socratis</name></w>
+                     <c> </c>
+                     <w lemma="vir" pos="n-s---mn-" xml:id="">vir</w>
+                     <c> </c>
+                     <w lemma="summus" pos="a-s---nb-" xml:id="">summo</w>
+                     <c> </c>
+                     <w lemma="acumen" pos="n-s---nb-" xml:id="">acumine</w><pc xml:id="">,</pc>
+                     <c> </c>
+                     <w lemma="et" pos="c--------" xml:id="">et</w>
+                     <c> </c>
+                     <w lemma="probitas" pos="n-s---fb-" xml:id="">
+                        <sic>provitate</sic>
+                        <corr>probitate</corr>   
+                     </w>
+                     <c> </c>         
+                     <w lemma="praeditus" pos="a-s---mn-" xml:id="">prae<pc type="hyphenation" xml:id="">-</pc><lb/>ditus</w><pc xml:id="">,</pc>
+                     <c> </c>
+                     <w lemma="qui" pos="p-s---mn-" xml:id="">qui</w>
+                     <c> </c>
+                     <w lemma="frequens" pos="a-p---fbs" xml:id="">
+                        <sic>frequentisimis</sic>
+                        <corr>frequentissimis</corr>
+                     </w>
+                     <c> </c>
+                     <w lemma="interrogatio" pos="n-p---fb-" xml:id="">interrogationibus</w><pc xml:id="">,</pc>
+                     <c> </c>
+                     <w lemma="et" pos="c--------" xml:id="">et</w>
+                     <c> </c>
+                     <w lemma="intimus" pos="a-s---fb-" xml:id="">intima</w>
+                     <c> </c>
+                     <w lemma="principium" pos="n-p---ng-" xml:id="">prin<pc type="hyphenation" xml:id="">-</pc><lb/>cipiorum</w>
+                     <c> </c>
+                     <w lemma="inductio" pos="n-s---fb-" xml:id="">inductione</w>
+                     <c> </c>
+                     <w lemma="homo" pos="" xml:id="n-p---ma-">homines</w>
+                     <c> </c>
+                     <w lemma="ad" pos="r--------" xml:id="">ad</w>
+                     <c> </c>
+                     <w lemma="veritas" pos="n-s---fa-" xml:id="">veritatem</w>
+                     <c> </c>
+                     <w lemma="confiteor" pos="v-s-g-fa-" xml:id="">confitendam</w>
+                     <c> </c>
+                     <w lemma="duco" pos="v3siia---" xml:id="">du<pc type="hyphenation" xml:id="">-</pc><lb/>cebat</w><pc xml:id="">.</pc>
+                  </s>
+                  <s xml:id="">
+                     <w lemma="primo" pos="d--------" xml:id="">Primo</w>
+                     <c> </c>
+                     <w lemma="ex" pos="r--------" xml:id="">ex</w>
+                     <c> </c>        
+                     <w lemma="adversaria" pos="n-p---ng-" xml:id="">adversariorum</w>
+                     <c> </c>
+                     <w lemma="responsio" pos="n-p---fb-" xml:id="">responsionibus</w>
+                     <c> </c>
+                     <w lemma="consequentia" pos="n-p---fa-" xml:id="">consequen<pc type="hyphenation" xml:id="">-</pc><lb/>tias</w>
+                     <c> </c>
+                     <w lemma="deduco" pos="v3siia---" xml:id="">deducebat</w><pc xml:id="">.</pc>
+                  </s>
+                  <s xml:id="">
+                     <w lemma="secundo" pos="d--------" xml:id="">Secundo</w>
+                     <c> </c>
+                     <w lemma="ad" pos="r--------" xml:id="">ad</w>
+                     <c> </c>
+                     <w lemma="ambiguitas" pos="n-s---fa-" xml:id="">ambiguitatem</w>
+                     <c> </c>
+                     <w lemma="tollo" pos="v-s-g-fa-" xml:id="">tollendam</w><pc xml:id="">,</pc>
+                     <c> </c>
+                     <w lemma="vocabulum" pos="" xml:id="">vo<pc type="hyphenation" xml:id="">-</pc><lb/>cabula</w>
+                     <c> </c>
+                     <w lemma="definio" pos="" xml:id="v3siia---">definiebat</w><pc xml:id="">.</pc>
+                  </s>
+               </p>
+               <p xml:id="">
+                  <s xml:id="">  
+                     <lb/>
+                     <w lemma="" pos="" xml:id="">A</w>
+                     <c> </c>
+                     <name type="pers"><w lemma="" pos="" xml:id="">Socrate</w></name><pc xml:id="">,</pc>
+                     <c> </c>
+                     <w lemma="academicus" pos="n-p---mn-" xml:id=""><name type="org">Academici</name></w><pc xml:id="">,</pc>
+                     <c> </c>
+                     <w lemma="Megaricus" pos="" xml:id=""><name type="org">Megarici</name></w><pc xml:id="">,</pc>
+                     <c> </c>
+                     <name type="org"><w lemma="Cyrenaici" pos="n-p---mn-" xml:id="">Cirenaici</w></name><pc xml:id="">,</pc>
+                     <c> </c>
+                     <w lemma="Peripateticus" pos="n-p---mn-" xml:id=""><name type="org">Peripathe<pc type="hyphenation" xml:id="">-</pc><lb/>tici</name></w><pc xml:id="">,</pc>
+                     <c> </c>
+                     <w lemma="et" pos="c--------" xml:id="">et</w>
+                     <c> </c>
+                     <name type="org"><w lemma="Stoicus" pos="n-p---mn-" xml:id="">Stoici</w></name>
+                     <c> </c>
+                     <w lemma="prodo" pos="v3pria---" xml:id="">prodiderunt</w><pc xml:id="">.</pc>
+                  </s>
+                  <s xml:id="">
+                     <name type="pers">
+                        <w lemma="" pos="" xml:id="">Plato</w>
+                     </name>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">fuit</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">
+                        <name type="org">Academicorum</name>
+                     </w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">
+                        <choice><sic>Pa<pc type="hyphenation" xml:id="">-</pc><lb/>rens</sic><corr>pa<pc type="hyphenation" xml:id="">-</pc><lb/>rens</corr></choice></w><pc xml:id="">,</pc>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">qui</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">res</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">dividebat</w><pc xml:id="">,</pc>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">definiebat</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">et</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">exacte</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">nominabat</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">ad</w>
+                     <lb/>
+                     <w lemma="" pos="" xml:id="">deducendam</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">veritatem</w><pc xml:id="">.</pc>
+                  </s>
+                  <s xml:id="">
+                     <name type="pers"><w lemma="" pos="" xml:id="">Euclides</w></name>
+                     <c> </c>         
+                     <name type="place"><w lemma="" pos="" xml:id="">Megaricorum</w></name>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">conditor</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">rix<pc type="hyphenation" xml:id="">-</pc><lb/>andi</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">viam</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">aperuit</w><pc xml:id="">,</pc>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">ob</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">falacias</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">in</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">assidua</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">disputatione</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">in<pc type="hyphenation" xml:id="">-</pc><lb/>troductas</w>
+                     <c> </c>
+                     <name type="pers">
+                        <w lemma="" pos="" xml:id="">Aristipus</w>
+                     </name>
+                     <c> </c>
+                     <name type="org">
+                        <w lemma="" pos="" xml:id="">Scholae</w>
+                        <w lemma="" pos="" xml:id="">cirenaicae</w>
+                     </name>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">autor</w><pc type="hyphenation" xml:id="">,</pc> 
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">criterium</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">verita<pc type="hyphenation" xml:id="">-</pc><lb/>in</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">afectionibus</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">animae</w><pc xml:id="">,</pc>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">sive</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">in</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">sensu</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">doloris</w><pc xml:id="">,</pc>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">et</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">volup<pc type="hyphenation" xml:id="">-</pc>
+                        <lb/>tatis</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">imposuerat</w><pc xml:id="">.</pc>
+                  </s>
+               </p>
+               <p xml:id="">		 
+                  <s xml:id="">
+                     <lb/>
+                     <name type="pers"><w lemma="" pos="" xml:id="">Aristoteles</w></name>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">subtilisimi</w><pc xml:id="">,</pc>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">et</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">optimi</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">vir</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">ingenii</w><pc xml:id="">,</pc>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">centum</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">vi<pc type="hyphenation" xml:id="">-</pc><pb n="2" xml:id="" /><lb/>ginti</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">libros</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">de</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">re</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">logica</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">scripsit</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">quorum</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">vix</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">adsunt</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">qua<pc type="hyphenation" xml:id="">-</pc><lb/>tuordecim</w>.
+                  </s>
+                  <s xml:id="">
+                     <w lemma="" pos="" xml:id="">In</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">primo</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">de</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">cathegoria</w><pc xml:id="">,</pc>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">sive</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">de</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">ideis</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">ad</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">ordi<pc type="hyphenation" xml:id="">-</pc><lb/>nem</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">reducendis</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">tractat</w><pc xml:id="">.</pc>
+                  </s>
+                  <s xml:id="">
+                     <w lemma="" pos="" xml:id="">Secundo</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">Perhiermenias</w><pc xml:id="">,</pc>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">sive</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">de</w>
+                     <lb/>               
+                     <w lemma="" pos="" xml:id="">vi</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">nominum</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">et</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">verborum</w><pc xml:id="">.</pc>
+                  </s>
+                  <s xml:id="">
+                     <w lemma="" pos="" xml:id="">Duo</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">priorum</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">analyticorum</w><pc xml:id="">,</pc>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">sive</w>
+                     <lb/>
+                     <w lemma="" pos="" xml:id="">de</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">sillogismo</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">generatim</w><pc xml:id="">.</pc>
+                  </s>
+                  <s xml:id="">
+                     <w lemma="" pos="" xml:id="">Duo</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">posteriorum</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">analyticorum</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">de</w>
+                     <lb/>
+                     <w lemma="" pos="" xml:id="">sillogismo</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">demostrativo</w><pc xml:id="">.</pc>
+                  </s>
+                  <s xml:id="">
+                     <w lemma="" pos="" xml:id="">Octo</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">Topicorum</w><pc xml:id="">,</pc>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">sive</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">loca</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">ar<pc type="hyphenation" xml:id="">-</pc><lb/>gumentorum</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">ad</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">provabilia</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">quaeque</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">provanda</w><pc xml:id="">.</pc>
+                  </s>
+                  <s xml:id="">
+                     <w lemma="" pos="" xml:id="">Duo</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">etiam</w>
+                     <lb/>
+                     <w lemma="" pos="" xml:id="">de</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">sophismatibus</w><pc xml:id="">.</pc>
+                  </s>
+                  <s xml:id="">
+                     <w lemma="" pos="" xml:id="">Scopum</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">Aristotelis</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">est</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">sillogismi</w>
+                     <lb/>               
+                     <w lemma="" pos="" xml:id="">efformatio</w><pc xml:id="">;</pc>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">docendo</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">ordinem</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">idearum</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">propietates</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">no<pc type="hyphenation" xml:id="">-</pc><lb/>minum</w><pc xml:id="">,</pc>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">vocabula</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">quae</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">universales</w><pc xml:id="">,</pc>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">et</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">particulares</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">ideas</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">de<pc type="hyphenation" xml:id="">-</pc><lb/>signent</w><pc xml:id="">,</pc>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">et</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">modum</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">copulandi</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">propositiones</w><pc xml:id="">:</pc>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">sed</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">peccabat</w>
+                     <lb/>
+                     <w lemma="" pos="" xml:id="">in</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">vocabulis</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">pro</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">libitu</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">utendis</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">absque</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">eorum</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">definitione</w><pc xml:id="">;</pc>
+                     <lb/>
+                     <w lemma="" pos="" xml:id="">in</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">nenias</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">explicandas</w><pc xml:id="">,</pc>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">nec</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">attingit</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">criterium</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">veritatis</w><pc xml:id="">:</pc>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">et</w>
+                     <lb/>
+                     <w lemma="" pos="" xml:id="">ita</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">Peripathetici</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">non</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">ex</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">natura</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">rei</w><pc xml:id="">,</pc>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">sed</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">ex</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">regulis</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">artis</w><pc xml:id="">,</pc>
+                     <lb/>
+                     <w lemma="" pos="" xml:id="">consequentias</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">deducebant</w><pc xml:id="">.</pc>
+                  </s>
+                  <s xml:id="">
+                     <w lemma="" pos="" xml:id="">Peccabat</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">etiam</w><pc xml:id="">,</pc>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">quod</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">longius</w><pc xml:id="">,</pc>
+                     <lb/>
+                     <w lemma="" pos="" xml:id="">et</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">obscurius</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">esset</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">in</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">regulis</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">sillogismorum</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">producendis</w><pc xml:id="">.</pc>
+                  </s>
+                  <s xml:id="">
+                     <w lemma="" pos="" xml:id="">Uno</w>
+                     <lb/>
+                     <w lemma="" pos="" xml:id="">verbo</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">potius</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">Grammaticam</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">Filosophicam</w><pc xml:id="">,</pc>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">quam</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">artem</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">ra<pc type="hyphenation" xml:id="">-</pc><lb/>tiocinandi</w>
+                     <c> </c>
+                     <w lemma="" pos="" xml:id="">edocuit</w><pc xml:id="">.</pc>
+                  </s>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>			 
+         text
+      </back>
+   </text>
+</TEI>
