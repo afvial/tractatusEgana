@@ -246,17 +246,31 @@
                <p xml:id="">
                   <s xml:id="">  
                      <lb/>
-                     <w lemma="" pos="" xml:id="">A</w>
+                     <w lemma="ab" pos="r--------" xml:id="">A</w>
                      <c> </c>
-                     <name type="pers"><w lemma="" pos="" xml:id="">Socrate</w></name><pc xml:id="">,</pc>
+                     <name type="pers"><w lemma="Socrates" pos="n-s---mb-" xml:id="">Socrate</w></name><pc xml:id="">,</pc>
                      <c> </c>
                      <w lemma="academicus" pos="n-p---mn-" xml:id=""><name type="org">Academici</name></w><pc xml:id="">,</pc>
                      <c> </c>
                      <w lemma="Megaricus" pos="" xml:id=""><name type="org">Megarici</name></w><pc xml:id="">,</pc>
                      <c> </c>
-                     <name type="org"><w lemma="Cyrenaici" pos="n-p---mn-" xml:id="">Cirenaici</w></name><pc xml:id="">,</pc>
+                     <name type="org">
+                        <w lemma="Cyrenaici" pos="n-p---mn-" xml:id="">
+                           <sic>Cirenaici</sic>
+                           <corr>Cyrenaici</corr>
+                        </w>   
+                     </name>
+                     <pc xml:id="">,</pc>
                      <c> </c>
-                     <w lemma="Peripateticus" pos="n-p---mn-" xml:id=""><name type="org">Peripathe<pc type="hyphenation" xml:id="">-</pc><lb/>tici</name></w><pc xml:id="">,</pc>
+                     <name type="org">
+                        <w lemma="Peripateticus" pos="n-p---mn-" xml:id="">
+                           <choice>                           	 
+                              <sic>Peripathe<pc type="hyphenation" xml:id="">-</pc><lb/>tici</sic>
+                              <corr>Peripate<pc type="hyphenation" xml:id="">-</pc><lb/>tici</corr>
+                           </choice>
+                        </w>
+                     </name>
+                     <pc xml:id="">,</pc> 				 
                      <c> </c>
                      <w lemma="et" pos="c--------" xml:id="">et</w>
                      <c> </c>

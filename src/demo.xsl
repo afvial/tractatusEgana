@@ -49,7 +49,7 @@
       </xsl:copy>
    </xsl:template>
    
-   <xsl:template match="teiHeader |front |sic "/>
+   <xsl:template match="teiHeader|front|sic|back "/>
    
    <!-- <xsl:template match="sic"/> -->
    
